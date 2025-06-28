@@ -1,0 +1,31 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "Just to practice node and npm",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curtasdeveloper/node-practice.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm",
+    "-",
+    "practice"
+  ],
+  "author": "curtasdeveloper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curtasdeveloper/node-practice/issues"
+  },
+  "homepage": "https://github.com/curtasdeveloper/node-practice#readme",
+  "dependencies": {
+    "inquirer": "^12.6.3",
+    "qr-image": "^3.2.0"
+  }
+}
