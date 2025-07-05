@@ -2,5 +2,15 @@
     "server": [ {
            "name": "Louise Curt Andrei Pacete"
         }
+    ],
+    "upcoming-features": [
+        {
+            "heading": "Diet Planner",
+            "text": "Comprehensive meal planning and nutrition tracking to complement your fitness routine."
+        },
+        {
+            "heading": "Food Suggester",
+            "text": "AI-powered food recommendations based on your fitness goals and dietary preferences."
+        }
     ]
 }
